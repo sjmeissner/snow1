@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="sn_customerservice.customer_admin" name="sn_customerservice.customer_admin">9b94fc24d7700200e5982cf65e610358</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2018-06-16 05:44:25</sys_created_on>
+        <sys_id>1effc8e4dbb213006c0eda11cf9619d1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>9b94fc24d7700200e5982cf65e610358</sys_name>
+        <sys_package display_value="My Test Scoped App 01" source="x_71883_my_test_sc">c76c310cdbfe13006c0eda11cf961974</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Test Scoped App 01">c76c310cdbfe13006c0eda11cf961974</sys_scope>
+        <sys_update_name>sys_embedded_help_role_1effc8e4dbb213006c0eda11cf9619d1</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-06-16 05:44:25</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

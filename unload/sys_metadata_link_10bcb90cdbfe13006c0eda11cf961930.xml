@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload</directory>
+        <documentkey>f68c390cdbfe13006c0eda11cf9619b1</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="x_71883_my_test_sc_my_test_scoped_app_01_table">
+    <x_71883_my_test_sc_my_test_scoped_app_01_table action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <activity_due/>
+        <additional_assignee_list/>
+        <approval>not requested</approval>
+        <approval_history/>
+        <approval_set/>
+        <assigned_to display_value="Aileen Mottern (product owner)">71826bf03710200044e0bfc8bcbe5d3b</assigned_to>
+        <assignment_group/>
+        <business_duration/>
+        <business_service/>
+        <calendar_duration/>
+        <close_notes/>
+        <closed_at/>
+        <closed_by/>
+        <cmdb_ci/>
+        <comments/>
+        <comments_and_work_notes/>
+        <company/>
+        <contact_type/>
+        <correlation_display/>
+        <correlation_id/>
+        <delivery_plan/>
+        <delivery_task/>
+        <description/>
+        <due_date/>
+        <escalation>0</escalation>
+        <expected_start/>
+        <follow_up/>
+        <group_list/>
+        <impact>3</impact>
+        <knowledge>false</knowledge>
+        <location/>
+        <made_sla>true</made_sla>
+        <number>MYT0001001</number>
+        <opened_at>2018-06-15 00:21:47</opened_at>
+        <opened_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</opened_by>
+        <order/>
+        <parent/>
+        <priority>4</priority>
+        <reassignment_count>0</reassignment_count>
+        <rejection_goto/>
+        <short_description>test record 1</short_description>
+        <skills/>
+        <sla_due/>
+        <state>1</state>
+        <sys_class_name>x_71883_my_test_sc_my_test_scoped_app_01_table</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-15 00:22:01</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f68c390cdbfe13006c0eda11cf9619b1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-15 00:22:01</sys_updated_on>
+        <time_worked/>
+        <upon_approval>proceed</upon_approval>
+        <upon_reject>cancel</upon_reject>
+        <urgency>3</urgency>
+        <user_input/>
+        <variables/>
+        <watch_list/>
+        <wf_activity/>
+        <work_end/>
+        <work_notes/>
+        <work_notes_list/>
+        <work_start/>
+    </x_71883_my_test_sc_my_test_scoped_app_01_table>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-15 00:22:27</sys_created_on>
+        <sys_id>10bcb90cdbfe13006c0eda11cf961930</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="My Test Scoped App 01" source="x_71883_my_test_sc">c76c310cdbfe13006c0eda11cf961974</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Test Scoped App 01">c76c310cdbfe13006c0eda11cf961974</sys_scope>
+        <sys_update_name>sys_metadata_link_10bcb90cdbfe13006c0eda11cf961930</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-15 00:22:27</sys_updated_on>
+        <tablename>x_71883_my_test_sc_my_test_scoped_app_01</tablename>
+    </sys_metadata_link>
+</record_update>

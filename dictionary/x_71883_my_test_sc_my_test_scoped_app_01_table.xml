@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="My Test Scoped App 01 Table" max_length="40" name="x_71883_my_test_sc_my_test_scoped_app_01_table" sizeclass="2" type="collection">
+        <element label="Trans text 01" max_length="1000" name="trans_text_01" type="translated_text"/>
+    </element>
+</database>

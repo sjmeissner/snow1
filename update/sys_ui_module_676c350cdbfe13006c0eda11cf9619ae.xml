@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="My Test Scoped App 01">e36c350cdbfe13006c0eda11cf9619ac</application>
+        <filter/>
+        <name>My Test Scoped App 01 Table</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_71883_my_test_sc.user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-15 00:21:19</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>676c350cdbfe13006c0eda11cf9619ae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Test Scoped App 01 Table</sys_name>
+        <sys_package display_value="My Test Scoped App 01" source="x_71883_my_test_sc">c76c310cdbfe13006c0eda11cf961974</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Test Scoped App 01">c76c310cdbfe13006c0eda11cf961974</sys_scope>
+        <sys_update_name>sys_ui_module_676c350cdbfe13006c0eda11cf9619ae</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-15 00:21:19</sys_updated_on>
+        <table>x_71883_my_test_sc_my_test_scoped_app_01_table</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
