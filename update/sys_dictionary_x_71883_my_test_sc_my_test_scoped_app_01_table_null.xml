@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="" table="x_71883_my_test_sc_my_test_scoped_app_01_table">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="" extends="task" table="x_71883_my_test_sc_my_test_scoped_app_01_table">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
@@ -31,6 +31,8 @@
         <element/>
         <element_reference>false</element_reference>
         <foreign_database/>
+        <function_definition/>
+        <function_field>false</function_field>
         <internal_type display_value="Collection">collection</internal_type>
         <mandatory>false</mandatory>
         <max_length>40</max_length>
@@ -46,21 +48,21 @@
         <reference_qual/>
         <reference_qual_condition/>
         <reference_type/>
-        <sizeclass>2</sizeclass>
+        <sizeclass/>
         <spell_check>false</spell_check>
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-06-15 00:21:18</sys_created_on>
-        <sys_id>1b6c350cdbfe13006c0eda11cf961981</sys_id>
+        <sys_id>6f56b014db0313001e947a6139961926</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_71883_my_test_sc_my_test_scoped_app_01_table</sys_name>
         <sys_package display_value="My Test Scoped App 01" source="x_71883_my_test_sc">c76c310cdbfe13006c0eda11cf961974</sys_package>
         <sys_policy/>
         <sys_scope display_value="My Test Scoped App 01">c76c310cdbfe13006c0eda11cf961974</sys_scope>
-        <sys_update_name>sys_dictionary_x_71883_my_test_sc_my_test_scoped_app_01_table_null</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-06-15 00:21:18</sys_updated_on>
+        <sys_update_name>sys_dictionary_x_71883_my_test_sc_my_test_scoped_app_01_table_NULL</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-06-28 00:09:23</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

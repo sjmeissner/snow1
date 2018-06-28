@@ -2,7 +2,7 @@
 <record_update table="sys_embedded_help_role">
     <sys_embedded_help_role action="INSERT_OR_UPDATE">
         <order>10</order>
-        <role display_value="sn_customerservice.customer_admin" name="sn_customerservice.customer_admin">9b94fc24d7700200e5982cf65e610358</role>
+        <role display_value="">9b94fc24d7700200e5982cf65e610358</role>
         <sys_class_name>sys_embedded_help_role</sys_class_name>
         <sys_created_by>system</sys_created_by>
         <sys_created_on>2018-06-16 05:44:25</sys_created_on>

@@ -2,7 +2,7 @@
 <record_update table="sys_embedded_help_role">
     <sys_embedded_help_role action="INSERT_OR_UPDATE">
         <order>1000</order>
-        <role display_value="sn_app_cs_social_social_channel_user" name="sn_app_cs_social_social_channel_user">dc962652d73022004f1e82285e6103a0</role>
+        <role display_value="">dc962652d73022004f1e82285e6103a0</role>
         <sys_class_name>sys_embedded_help_role</sys_class_name>
         <sys_created_by>system</sys_created_by>
         <sys_created_on>2018-06-16 05:43:46</sys_created_on>
